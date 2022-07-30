@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @JamesSeo
 - 👀 I’m interested in  cloud, data, 
- // - 🌱 I’m currently learning cass
+- 
+ // - 🌱 I’m currently learning ( Why am I so busy?) 
+ 
 // - 💞️  
+
 // - 📫 How to reach me 
 
 <!---
